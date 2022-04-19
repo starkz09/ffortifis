@@ -1,0 +1,26 @@
+.elementor-1622 .elementor-element.elementor-element-33df9a1 > .elementor-container{min-height:400px;}.elementor-1622 .elementor-element.elementor-element-33df9a1 > .elementor-container:after{content:"";min-height:inherit;}.elementor-1622 .elementor-element.elementor-element-33df9a1:not(.elementor-motion-effects-element-type-background), .elementor-1622 .elementor-element.elementor-element-33df9a1 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2020/08/company-banner.jpg");background-position:center center;background-repeat:no-repeat;background-size:cover;}.elementor-1622 .elementor-element.elementor-element-33df9a1{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:065px 0px 0px 0px;}.elementor-1622 .elementor-element.elementor-element-33df9a1 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1622 .elementor-element.elementor-element-6483aa1{text-align:center;}.elementor-1622 .elementor-element.elementor-element-6483aa1 .elementor-heading-title{color:#FFFFFF;font-family:"Industry_Medium", Sans-serif;font-size:44px;font-weight:400;text-transform:none;}.elementor-1622 .elementor-element.elementor-element-6483aa1 > .elementor-widget-container{margin:120px 0px 0px 0px;}.elementor-1622 .elementor-element.elementor-element-cc40563 .elementor-button{font-family:"Poppins", Sans-serif;font-size:12px;font-weight:400;background-color:rgba(2, 1, 1, 0);padding:0px 0px 0px 0px;}.elementor-1622 .elementor-element.elementor-element-5e0ee4e:not(.elementor-motion-effects-element-type-background), .elementor-1622 .elementor-element.elementor-element-5e0ee4e > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F4F3F5;}.elementor-1622 .elementor-element.elementor-element-5e0ee4e{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:5px 0px 5px 0px;}.elementor-1622 .elementor-element.elementor-element-5e0ee4e > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1622 .elementor-element.elementor-element-0341e0c .elementor-button{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;text-transform:none;fill:#212529;color:#212529;background-color:rgba(2, 1, 1, 0);padding:0px 0px 0px 0px;}.elementor-1622 .elementor-element.elementor-element-0341e0c{width:auto;max-width:auto;}.elementor-1622 .elementor-element.elementor-element-6eb2e6a .elementor-button{font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;text-transform:none;fill:#212529;color:#212529;background-color:rgba(2, 1, 1, 0);padding:0px 0px 0px 0px;}.elementor-1622 .elementor-element.elementor-element-6eb2e6a > .elementor-widget-container{margin:0px 0px 0px 10px;}.elementor-1622 .elementor-element.elementor-element-6eb2e6a{width:auto;max-width:auto;}.elementor-1622 .elementor-element.elementor-element-3c59111{padding:40px 0px 80px 0px;}.elementor-1622 .elementor-element.elementor-element-05e1b83 .elementor-heading-title{color:#221C35;font-family:"Industry_Medium", Sans-serif;font-size:44px;font-weight:400;line-height:53px;}.elementor-1622 .elementor-element.elementor-element-05e1b83 > .elementor-widget-container{padding:0% 0% 0% 0%;}.elementor-1622 .elementor-element.elementor-element-6a9a952{color:#221C35;font-family:"Poppins", Sans-serif;font-size:16px;font-weight:400;line-height:20px;}.elementor-1622 .elementor-element.elementor-element-6a9a952 > .elementor-widget-container{padding:0% 10% 0% 0%;}.elementor-1622 .elementor-element.elementor-element-13b5f52 .elementor-heading-title{color:#221C35;font-family:"Poppins", Sans-serif;font-size:21px;font-weight:400;}.elementor-1622 .elementor-element.elementor-element-c825e1a{color:#221C35;font-size:16px;font-weight:400;line-height:20px;}@media(min-width:768px){.elementor-1622 .elementor-element.elementor-element-ca4f9fa{width:66.666667%;}.elementor-1622 .elementor-element.elementor-element-d6f00f6{width:33.25%;}}/* Start custom CSS for heading, class: .elementor-element-6483aa1 */.elementor-1622 .elementor-element.elementor-element-33df9a1:not(.elementor-motion-effects-element-type-background){
+    background:#000000 url("../../2020/08/company-banner.jpg");
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-33df9a1 */.socaap-banner{
+     min-height: 376px;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-5e0ee4e */.socaap-banner{
+     min-height: 376px;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-6d99d95 */.elementor-1622 .elementor-element .wpforms-container .wpforms-field-label.wpforms-label-hide{
+    display:none;
+}
+.elementor-1622 .elementor-element .company-form select{
+    color:#221C35;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Industry_Medium';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2020/08/Industry-Medium.eot');
+	src: url('../../2020/08/Industry-Mediumd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2020/08/Industry-Medium.woff') format('woff'),
+		url('../../2020/08/Industry-Medium.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

@@ -1,0 +1,17 @@
+.elementor-1258 .elementor-element.elementor-element-ca045f2:not(.elementor-motion-effects-element-type-background), .elementor-1258 .elementor-element.elementor-element-ca045f2 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("../../2020/08/inner-banner-bg.jpg");background-size:cover;}.elementor-1258 .elementor-element.elementor-element-ca045f2{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:40px 0px 40px 0px;}.elementor-1258 .elementor-element.elementor-element-ca045f2 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1258 .elementor-element.elementor-element-cf8a375{text-align:left;}.elementor-1258 .elementor-element.elementor-element-cf8a375 .elementor-heading-title{color:#221C35;font-family:"Industry_Book", Sans-serif;font-size:33px;font-weight:300;text-transform:none;}.elementor-1258 .elementor-element.elementor-element-cf8a375 > .elementor-widget-container{padding:7% 0% 0% 0%;}.elementor-1258 .elementor-element.elementor-element-8070ee1 .elementor-text-editor{text-align:left;}.elementor-1258 .elementor-element.elementor-element-8070ee1{color:rgba(73, 73, 73, 0.69);font-family:"Poppins", Sans-serif;font-size:18px;font-weight:normal;}.elementor-1258 .elementor-element.elementor-element-8070ee1 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-1258 .elementor-element.elementor-element-19515b9{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:50px 0px 50px 0px;}.elementor-1258 .elementor-element.elementor-element-19515b9 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}/* Start custom CSS for section, class: .elementor-element-ca045f2 */.socaap-banner{
+     min-height: 376px;
+}/* End custom CSS */
+/* Start custom CSS for shortcode, class: .elementor-element-23b5ce4 */.elementor-element-23b5ce4  .wpforms-container .wpforms-field-label.wpforms-label-hide{
+    display:none;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Industry_Book';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('../../2020/08/Industry-Book.eot');
+	src: url('../../2020/08/Industry-Bookd41d.eot?#iefix') format('embedded-opentype'),
+		url('../../2020/08/Industry-Book.woff') format('woff'),
+		url('../../2020/08/Industry-Book.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

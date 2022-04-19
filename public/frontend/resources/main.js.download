@@ -1,0 +1,159 @@
+function buton(){
+
+		var id = '#dialog';
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+//		$('#mask').css({'width':maskWidth,'height':maskHeight});
+                $('#mask').css({'width':'100%','height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(500);	
+		$('#mask').fadeTo("slow",1.0);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000,'swing',function() {                    
+                    $('#email').focus();
+                });
+                
+		
+		$('.close').click(function() {
+				$("#dialog").hide();
+    			$("#mask").hide();
+				return false;
+		});
+	
+		
+	
+	}
+        function notify(){
+
+		var id = '#dialog-notify';
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+//		$('#mask').css({'width':maskWidth,'height':maskHeight});
+                $('.mask').css({'width':'100%','height':maskHeight});
+		
+		//transition effect		
+		$('.mask').fadeIn(500);	
+		$('.mask').fadeTo("slow",0.9);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 	
+		
+		$('.close-notify').click(function() {
+				$("#dialog-notify").hide();
+    			$(".mask").hide();
+				return false;
+		});
+	
+		
+	
+	}
+        
+        function notifyc1(){
+
+		var id = '#dialog-notifyc1';
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+//		$('#mask').css({'width':maskWidth,'height':maskHeight});
+                $('.mask').css({'width':'100%','height':maskHeight});
+		
+		//transition effect		
+		$('.mask').fadeIn(500);	
+		$('.mask').fadeTo("slow",0.9);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 	
+		
+		$('.close').click(function() {
+				$("#dialog-notifyc1").hide();
+    			$(".mask").hide();
+				return false;
+		});
+	
+		
+	
+	}
+        
+function buton1(){
+//$('.buton').click(function() {	
+		
+		var id = '#dialog';
+
+		//Get the screen height and width
+		var maskHeight = $(document).height();
+		var maskWidth = $(window).width();
+	
+		//Set heigth and width to mask to fill up the whole screen
+		$('#mask').css({'width':maskWidth,'height':maskHeight});
+		
+		//transition effect		
+		$('#mask').fadeIn(500);	
+		$('#mask').fadeTo("slow",0.9);	
+	
+		//Get the window height and width
+		var winH = $(window).height();
+		var winW = $(window).width();
+              
+		//Set the popup window to center
+		$(id).css('top',  winH/2-$(id).height()/2);
+		$(id).css('left', winW/2-$(id).width()/2);
+	
+		//transition effect
+		$(id).fadeIn(2000); 	
+	}
+		
+	
+	//});
+
+function email_valid()
+{
+	var email = $("#email").val();
+
+    var re = /^([\w-]+(?:\.[\w-]+)*)@((?:[\w-]+\.)*\w[\w-]{0,66})\.([a-z]{2,10}(?:\.[a-z]{2,10})?)$/i;
+	if(re.test(email)){
+		
+		return true;
+	}
+else{
+	alert('Please Enter a valid Email ID');
+	return false;
+}
+alert(re.test(email));
+}
